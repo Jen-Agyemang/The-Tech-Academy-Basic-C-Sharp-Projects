@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\companyproject\companyproject\bin\Debug\companyproject.exe.config
+C:\Users\Owner\Desktop\companyproject\companyproject\bin\Debug\companyproject.exe
+C:\Users\Owner\Desktop\companyproject\companyproject\bin\Debug\companyproject.pdb
+C:\Users\Owner\Desktop\companyproject\companyproject\obj\Debug\companyproject.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\companyproject\companyproject\obj\Debug\companyproject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\companyproject\companyproject\obj\Debug\companyproject.exe
+C:\Users\Owner\Desktop\companyproject\companyproject\obj\Debug\companyproject.pdb
