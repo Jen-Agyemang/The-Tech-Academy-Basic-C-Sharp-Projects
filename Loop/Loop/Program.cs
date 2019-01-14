@@ -10,44 +10,51 @@ namespace Loop
     {
         static void Main(string[] args)
         {
+
+
+            // IN A CONSOLE APP, CREATE CODE THAT DOES THE FOLLOWING:
+
             // Do a boolean comparison using a while statement.
-            
-           // IN A CONSOLE APP, CREATE CODE THAT DOES THE FOLLOWING:
 
-            Console.WriteLine("Guess a number?");
-            int number = Convert.ToInt32(Console.ReadLine());
-            bool inputs = Convert.ToBoolean(number);
+            Console.WriteLine("Guess age?");
+            int age = Convert.ToInt32(Console.ReadLine());
+            bool ageGuessed = age == 12; //bool ageGuessed = false;
 
-            switch (number)
+            while (ageGuessed == false) //while(!ageGussed)
+
+            switch (age)
 
             {
                 case 1:
-                    Console.WriteLine("false");
-                    Console.ReadLine();
+                    Console.WriteLine("You guessed 1. Try again.");
+                        Console.WriteLine("guess age?");
+                        age = Convert.ToInt32(Console.ReadLine());
                     break;
 
                 case 2:
-                    Console.WriteLine("False");
-                    Console.ReadLine();
+                    Console.WriteLine("You guessed 2. Try Agian.");
+                    Console.WriteLine("Guess age?");
+                        age = Convert.ToInt32(Console.ReadLine());
                     break;
 
-                case 3:
-                    Console.WriteLine("True!");
-                    Console.ReadLine();
+                case 12:
+                    Console.WriteLine("You guessed the number 12! That is correct!");
+                        ageGuessed = true;
+                        Console.ReadLine();
                     break;
 
 
                 default:
-                    Console.WriteLine("False.");
-                    Console.ReadLine();
-
-
-                    break;
+                    Console.WriteLine("You are wrong.");
+                        Console.WriteLine("Guess age?");
+                        age = Convert.ToInt32(Console.ReadLine());
+                        break;
 
                     
                     
 
             }
+            Console.Read();
         }
     }
 }
