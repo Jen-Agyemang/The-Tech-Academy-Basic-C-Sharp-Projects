@@ -1,7 +1,0 @@
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\bin\Debug\concatenateUppercase.exe.config
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\bin\Debug\concatenateUppercase.exe
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\bin\Debug\concatenateUppercase.pdb
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\obj\Debug\concatenateUppercase.csprojAssemblyReference.cache
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\obj\Debug\concatenateUppercase.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\obj\Debug\concatenateUppercase.exe
-C:\Users\Owner\Desktop\concatenateUppercase\concatenateUppercase\obj\Debug\concatenateUppercase.pdb

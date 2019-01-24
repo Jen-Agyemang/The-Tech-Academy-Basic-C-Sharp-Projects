@@ -1,7 +1,0 @@
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\bin\Debug\CarInsuranceProject.exe.config
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\bin\Debug\CarInsuranceProject.exe
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\bin\Debug\CarInsuranceProject.pdb
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\obj\Debug\CarInsuranceProject.csprojAssemblyReference.cache
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\obj\Debug\CarInsuranceProject.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\obj\Debug\CarInsuranceProject.exe
-C:\Users\Owner\Desktop\CompanyProject2\CarInsuranceProject\CarInsuranceProject\obj\Debug\CarInsuranceProject.pdb
